@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="SAINT CLIENT" width="100%" />
 </div>
 
-<h1 align="center">saintallinme</h1>
+<h1 align="center">saint_mood</h1>
 
 <p align="center">
   Основатель и ведущий разработчик <b>SAINT CLIENT</b>
@@ -39,8 +39,8 @@
 ## Статистика
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lazyyy-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=EEC664&icon_color=EEC664&text_color=B8A884&bg_color=14110A" />
-  <img height="165" src="https://streak-stats.demolab.com?user=lazyyy-dev&hide_border=true&background=14110A&ring=EEC664&fire=EEC664&currStreakLabel=EEC664&sideLabels=B8A884&dates=7A6D54&currStreakNum=F4ECDC&sideNums=F4ECDC&stroke=2A2418" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saintmoodofficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=EEC664&icon_color=EEC664&text_color=B8A884&bg_color=14110A" />
+  <img height="165" src="https://streak-stats.demolab.com?user=saintmoodofficial&hide_border=true&background=14110A&ring=EEC664&fire=EEC664&currStreakLabel=EEC664&sideLabels=B8A884&dates=7A6D54&currStreakNum=F4ECDC&sideNums=F4ECDC&stroke=2A2418" />
 </div>
 
 ---
