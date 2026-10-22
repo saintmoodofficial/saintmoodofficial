@@ -1,50 +1,33 @@
-<div align="center">
-  <img src="assets/banner.png" alt="SAINT CLIENT" width="100%" />
-</div>
-
-<h1 align="center">saint_mood</h1>
-
 <p align="center">
-  Основатель и ведущий разработчик <b>SAINT CLIENT</b>
+  <img src="assets/saintmood-3d.png" alt="SAINTMOOD — Software Developer" width="100%" />
 </p>
 
----
+<h3 align="center">Разработчик продуктов на Java и TypeScript</h3>
 
-## Проект
+<p align="center">
+  Основатель и разработчик <b>SAINTCLIENT</b>.<br />
+  Создаю игровые клиенты, десктопные приложения и веб-платформы.<br />
+  Проектирую архитектуру, пишу код и довожу продукт до выпуска.
+</p>
 
-**SAINT CLIENT** — утилитный клиент для Minecraft, который я развиваю как продукт: с собственным
-интерфейсом, лаунчером и циклом обновлений.
+<p align="center">
+  <a href="https://saintclient.pro"><b>saintclient.pro ↗</b></a>
+</p>
 
-Задача — сделать клиент, который не стыдно поставить рядом с коммерческими решениями: предсказуемая
-производительность, выверенный интерфейс и понятный пользователю продукт, а не набор функций.
+<br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.21-EEC664?style=for-the-badge&labelColor=14110A" />
-  <img src="https://img.shields.io/badge/Fabric-0.16-EEC664?style=for-the-badge&labelColor=14110A" />
-  <img src="https://img.shields.io/badge/версия-v1.0-EEC664?style=for-the-badge&labelColor=14110A" />
-</div>
+<p align="center">
+  <img src="assets/stack.svg" alt="Java · TypeScript · React · Electron · PostgreSQL · Linux" width="100%" />
+</p>
 
-## Подход
+### Разработка
 
-- **Производительность — требование, а не пожелание.** Интерфейс обязан держать кадр в любых условиях.
-- **Интерфейс проектируется, а не собирается.** Типографика, иконки и анимация — часть продукта.
-- **Решения принимаются по замерам.** Причина находится и устраняется, а не маскируется.
-- **Продукт закончен тогда, когда им удобно пользоваться.** Не тогда, когда он работает.
+**Клиенты и приложения** — Java, Fabric, Electron. Логика, интеграции и производительность.
 
-## Развитие
+**Интерфейсы** — TypeScript и React. Собственный визуальный стиль, анимации и удобное управление.
 
-Ближайшее направление — расширение клиента, развитие лаунчера и выстраивание регулярных релизов.
-Долгосрочная цель — устойчивый продукт с собственной аудиторией и репутацией.
+**Сервисы и релизы** — API, PostgreSQL и Linux. Авторизация, обновления и развёртывание.
 
-## Статистика
+<br />
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saintmoodofficial&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=EEC664&icon_color=EEC664&text_color=B8A884&bg_color=14110A" />
-  <img height="165" src="https://streak-stats.demolab.com?user=saintmoodofficial&hide_border=true&background=14110A&ring=EEC664&fire=EEC664&currStreakLabel=EEC664&sideLabels=B8A884&dates=7A6D54&currStreakNum=F4ECDC&sideNums=F4ECDC&stroke=2A2418" />
-</div>
-
----
-
-<div align="center">
-  <sub>SAINT CLIENT не относится к Mojang Studios и Microsoft.</sub>
-</div>
+<p align="center"><sub>SAINTMOOD · SOFTWARE DEVELOPMENT · © 2026</sub></p>
