@@ -1,33 +1,42 @@
 <p align="center">
-  <img src="assets/saintmood-3d.png" alt="SAINTMOOD — Software Developer" width="100%" />
+  <img src="assets/saintmood-3d.png" alt="SAINTMOOD" width="100%" />
 </p>
 
-<h3 align="center">Разработчик продуктов на Java и TypeScript</h3>
+<p align="center"><b>SAINTMOOD</b> &nbsp; / &nbsp; PERSONAL SPACE</p>
 
-<p align="center">
-  Основатель и разработчик <b>SAINTCLIENT</b>.<br />
-  Создаю игровые клиенты, десктопные приложения и веб-платформы.<br />
-  Проектирую архитектуру, пишу код и довожу продукт до выпуска.
-</p>
+## Обо мне
 
-<p align="center">
-  <a href="https://saintclient.pro"><b>saintclient.pro ↗</b></a>
-</p>
+Я разработчик из Армении. Родился **21 сентября**.
+
+Здесь я под ником **saintmoodofficial**. Работаю над своими проектами и уделяю внимание тому, как они выглядят и ощущаются.
 
 <br />
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Java · TypeScript · React · Electron · PostgreSQL · Linux" width="100%" />
+  <img src="assets/personal.svg" alt="Разработчик · Армения · 21 сентября" width="100%" />
 </p>
 
-### Разработка
+## В моём стиле
 
-**Клиенты и приложения** — Java, Fabric, Electron. Логика, интеграции и производительность.
+Люблю объёмный визуал, плавное движение и аккуратные детали. Хочу, чтобы у моих работ был свой характер.
 
-**Интерфейсы** — TypeScript и React. Собственный визуальный стиль, анимации и удобное управление.
+<p align="center">
+  <img src="assets/details.svg" alt="Визуальный стиль, детали, анимации и звук" width="100%" />
+</p>
 
-**Сервисы и релизы** — API, PostgreSQL и Linux. Авторизация, обновления и развёртывание.
+## Над чем работаю
 
-<br />
+<p align="center">
+  <a href="https://saintclient.pro"><img src="assets/project.svg" alt="SAINTCLIENT — мой проект" width="100%" /></a>
+</p>
 
-<p align="center"><sub>SAINTMOOD · SOFTWARE DEVELOPMENT · © 2026</sub></p>
+## Где меня найти
+
+<p>
+  <a href="https://github.com/saintmoodofficial"><b>GitHub / saintmoodofficial</b></a><br />
+  <a href="https://saintclient.pro"><b>SAINTCLIENT / saintclient.pro ↗</b></a>
+</p>
+
+---
+
+<p align="center"><sub>SAINTMOOD &nbsp; · &nbsp; ARMENIA &nbsp; · &nbsp; SEPTEMBER 21</sub></p>
